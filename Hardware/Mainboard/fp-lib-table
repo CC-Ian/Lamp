@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AmbientLight")(type "KiCad")(uri "${KIPRJMOD}/AmbientLight.pretty")(options "")(descr ""))
+)
