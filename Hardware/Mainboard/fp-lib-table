@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "AmbientLight")(type "KiCad")(uri "${KIPRJMOD}/AmbientLight.pretty")(options "")(descr ""))
+  (lib (name "USB_Connector_Custom")(type "KiCad")(uri "${KIPRJMOD}/USB_Connector_Custom.pretty")(options "")(descr ""))
 )
